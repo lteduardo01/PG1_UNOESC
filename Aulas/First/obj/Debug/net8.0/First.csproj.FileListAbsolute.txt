@@ -1,0 +1,15 @@
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.sourcelink.json
+A:\PG1_UNOESC\Aulas\First\bin\Debug\net8.0\First.exe
+A:\PG1_UNOESC\Aulas\First\bin\Debug\net8.0\First.deps.json
+A:\PG1_UNOESC\Aulas\First\bin\Debug\net8.0\First.runtimeconfig.json
+A:\PG1_UNOESC\Aulas\First\bin\Debug\net8.0\First.dll
+A:\PG1_UNOESC\Aulas\First\bin\Debug\net8.0\First.pdb
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.dll
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\refint\First.dll
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.pdb
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+A:\PG1_UNOESC\Aulas\First\obj\Debug\net8.0\ref\First.dll
