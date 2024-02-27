@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\PG1_UNOESC\\Aulas\\First\\First.csproj",
-      "projectName": "First",
-      "projectPath": "A:\\PG1_UNOESC\\Aulas\\First\\First.csproj",
+      "projectUniqueName": "A:\\PG1_UNOESC\\Projetos\\fichaCadastral\\fichaCadastral\\fichaCadastral.csproj",
+      "projectName": "fichaCadastral",
+      "projectPath": "A:\\PG1_UNOESC\\Projetos\\fichaCadastral\\fichaCadastral\\fichaCadastral.csproj",
       "packagesPath": "C:\\Users\\odrau\\.nuget\\packages\\",
-      "outputPath": "A:\\PG1_UNOESC\\Aulas\\First\\obj\\",
+      "outputPath": "A:\\PG1_UNOESC\\Projetos\\fichaCadastral\\fichaCadastral\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\odrau\\AppData\\Roaming\\NuGet\\NuGet.Config"

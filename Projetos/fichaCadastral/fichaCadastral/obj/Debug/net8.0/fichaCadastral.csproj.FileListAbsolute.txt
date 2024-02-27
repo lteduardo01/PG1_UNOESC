@@ -1,0 +1,15 @@
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\bin\Debug\net8.0\fichaCadastral.exe
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\bin\Debug\net8.0\fichaCadastral.deps.json
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\bin\Debug\net8.0\fichaCadastral.runtimeconfig.json
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\bin\Debug\net8.0\fichaCadastral.dll
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\bin\Debug\net8.0\fichaCadastral.pdb
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.GeneratedMSBuildEditorConfig.editorconfig
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.AssemblyInfoInputs.cache
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.AssemblyInfo.cs
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.csproj.CoreCompileInputs.cache
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.sourcelink.json
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.dll
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\refint\fichaCadastral.dll
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.pdb
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\fichaCadastral.genruntimeconfig.cache
+A:\PG1_UNOESC\Projetos\fichaCadastral\fichaCadastral\obj\Debug\net8.0\ref\fichaCadastral.dll
