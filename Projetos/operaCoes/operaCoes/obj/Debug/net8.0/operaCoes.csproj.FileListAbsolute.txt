@@ -1,0 +1,15 @@
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\bin\Debug\net8.0\operaCoes.exe
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\bin\Debug\net8.0\operaCoes.deps.json
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\bin\Debug\net8.0\operaCoes.runtimeconfig.json
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\bin\Debug\net8.0\operaCoes.dll
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\bin\Debug\net8.0\operaCoes.pdb
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.GeneratedMSBuildEditorConfig.editorconfig
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.AssemblyInfoInputs.cache
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.AssemblyInfo.cs
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.csproj.CoreCompileInputs.cache
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.sourcelink.json
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.dll
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\refint\operaCoes.dll
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.pdb
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\operaCoes.genruntimeconfig.cache
+A:\PG1_UNOESC\Projetos\operaCoes\operaCoes\obj\Debug\net8.0\ref\operaCoes.dll
