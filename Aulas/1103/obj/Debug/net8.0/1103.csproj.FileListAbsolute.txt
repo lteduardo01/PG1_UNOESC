@@ -1,0 +1,15 @@
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.GeneratedMSBuildEditorConfig.editorconfig
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.AssemblyInfoInputs.cache
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.AssemblyInfo.cs
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.csproj.CoreCompileInputs.cache
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.sourcelink.json
+A:\PG1_UNOESC\Aulas\1103\bin\Debug\net8.0\1103.exe
+A:\PG1_UNOESC\Aulas\1103\bin\Debug\net8.0\1103.deps.json
+A:\PG1_UNOESC\Aulas\1103\bin\Debug\net8.0\1103.runtimeconfig.json
+A:\PG1_UNOESC\Aulas\1103\bin\Debug\net8.0\1103.dll
+A:\PG1_UNOESC\Aulas\1103\bin\Debug\net8.0\1103.pdb
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.dll
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\refint\1103.dll
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.pdb
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\1103.genruntimeconfig.cache
+A:\PG1_UNOESC\Aulas\1103\obj\Debug\net8.0\ref\1103.dll
