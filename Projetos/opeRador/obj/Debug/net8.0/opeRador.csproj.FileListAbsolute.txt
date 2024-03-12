@@ -1,0 +1,15 @@
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.GeneratedMSBuildEditorConfig.editorconfig
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.AssemblyInfoInputs.cache
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.AssemblyInfo.cs
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.csproj.CoreCompileInputs.cache
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.sourcelink.json
+A:\PG1_UNOESC\Projetos\opeRador\bin\Debug\net8.0\opeRador.exe
+A:\PG1_UNOESC\Projetos\opeRador\bin\Debug\net8.0\opeRador.deps.json
+A:\PG1_UNOESC\Projetos\opeRador\bin\Debug\net8.0\opeRador.runtimeconfig.json
+A:\PG1_UNOESC\Projetos\opeRador\bin\Debug\net8.0\opeRador.dll
+A:\PG1_UNOESC\Projetos\opeRador\bin\Debug\net8.0\opeRador.pdb
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.dll
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\refint\opeRador.dll
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.pdb
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\opeRador.genruntimeconfig.cache
+A:\PG1_UNOESC\Projetos\opeRador\obj\Debug\net8.0\ref\opeRador.dll
